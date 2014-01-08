@@ -12,3 +12,7 @@ libs/armeabi-v7a
 libs/armeabi
 libs/x86
 libs/mips
+
+#Eclipse
+.classpath
+project.properties
